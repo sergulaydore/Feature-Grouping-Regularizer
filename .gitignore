@@ -1,0 +1,16 @@
+_pycache__
+*/.idea/_
+.idea/
+*.blg
+*.pdf
+*.aux
+*.log
+*.bbl
+*.out
+*.gz
+*.pkl
+.DS_Store
+__init__.py
+experiments/
+
+.DS_Store
